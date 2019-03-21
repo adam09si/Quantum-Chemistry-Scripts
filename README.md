@@ -1,2 +1,3 @@
 # Quantum-Chemistry-Scripts
-Scripts and notebooks to aid QM calculations
+
+Python scripts and jupyter notebooks for setting up and processing QM calculations from Gaussian09.
